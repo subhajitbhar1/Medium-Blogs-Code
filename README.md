@@ -24,7 +24,9 @@ Bibtex:
 }
 ```
 <div align="center">
-<h3>Connect with me</h3>
+<h3 >Connect with me</h3>
+<code align="center" href="mailto:hello@subhajitbhar.com">hello@subhajitbhar.com</code>
+<p></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajitbhar1/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/subhajitbhar1)
