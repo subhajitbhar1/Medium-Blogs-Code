@@ -25,7 +25,7 @@ Bibtex:
 ```
 <div align="center">
 <h3 >Connect with me</h3>
-<a href="mailto:hello@subhajitbhar.com">hello@subhajitbhar.com</a>
+<code><a href="mailto:hello@subhajitbhar.com">hello@subhajitbhar.com</a> </code>
 <p></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajitbhar1/)
