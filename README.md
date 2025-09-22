@@ -3,7 +3,7 @@ Supporting code for my Medium blogs.
 
 Read the blogs here; [medium/SubhajitBhar1](https://medium.com/@subhajitbhar1)
 
-# Attribution;
+# Attribution:
 
 If you find any code in this repository useful, please consider giving a star to the repository.
 
